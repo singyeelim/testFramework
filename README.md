@@ -1,3 +1,10 @@
+## testFramework
+This challenge is an online shop where user selects an item and put it into the shopping basket up to Verification and Order Placement step
+
+This project is written using Gauge and uses
+
+* Selenium
+
 ## Prerequisites
 
 * Download this repository on the target machine
