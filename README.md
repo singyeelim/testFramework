@@ -15,7 +15,7 @@ This project is written using Gauge and uses
 * Open powershell as administrator
 * `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 * `choco install python3 --version 3.10.5 -y`
-* `choco install gauge --version 1.0.4 -y`
+* `choco install gauge --version 1.4.3 -y`
 * `choco install nodejs.install -y`
 * `choco install googlechrome -y`
 * `choco install chromedriver -y`
